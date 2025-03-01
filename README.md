@@ -1,5 +1,5 @@
 # Git
-<!-- **Git Commands **
+ **Git Commands **
 
 1. Configuration Commands
 git config --global user.name "Your Name" → Set username
@@ -62,7 +62,6 @@ git fork → Copy a repository on GitHub
 git clone <forked-repo-url> → Clone the forked repository
 git rebase <branch> → Reapply commits on top of another base branch
 git cherry-pick <commit-hash> → Apply a specific commit from another branch
--->
 
 
 Final Summary of Git Workflow
